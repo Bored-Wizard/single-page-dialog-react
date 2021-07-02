@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/single-page-dialog-react/static/css/main.96a30797.chunk.css",
+    "main.js": "/single-page-dialog-react/static/js/main.dc1d7ae3.chunk.js",
+    "main.js.map": "/single-page-dialog-react/static/js/main.dc1d7ae3.chunk.js.map",
+    "runtime-main.js": "/single-page-dialog-react/static/js/runtime-main.2e6887b3.js",
+    "runtime-main.js.map": "/single-page-dialog-react/static/js/runtime-main.2e6887b3.js.map",
+    "static/js/2.a074dd94.chunk.js": "/single-page-dialog-react/static/js/2.a074dd94.chunk.js",
+    "static/js/2.a074dd94.chunk.js.map": "/single-page-dialog-react/static/js/2.a074dd94.chunk.js.map",
+    "static/js/3.2a96b383.chunk.js": "/single-page-dialog-react/static/js/3.2a96b383.chunk.js",
+    "static/js/3.2a96b383.chunk.js.map": "/single-page-dialog-react/static/js/3.2a96b383.chunk.js.map",
+    "index.html": "/single-page-dialog-react/index.html",
+    "static/css/main.96a30797.chunk.css.map": "/single-page-dialog-react/static/css/main.96a30797.chunk.css.map",
+    "static/js/2.a074dd94.chunk.js.LICENSE.txt": "/single-page-dialog-react/static/js/2.a074dd94.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e6887b3.js",
+    "static/js/2.a074dd94.chunk.js",
+    "static/css/main.96a30797.chunk.css",
+    "static/js/main.dc1d7ae3.chunk.js"
+  ]
+}
